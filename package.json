@@ -1,0 +1,21 @@
+{
+  "name": "web-emulator-arcade-ultimate",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "idb": "^8.0.0",
+    "jsnes": "^0.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "wasmboy": "^4.4.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
