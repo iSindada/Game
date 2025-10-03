@@ -1,10 +1,19 @@
 {
+  "name": "web-emulator-arcade-ultimate",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "idb": "8.0.0",
-    "jsnes": "0.7.0",
+    "jsnes": "https://registry.npmjs.org/jsnes/-/jsnes-0.7.0.tgz",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "wasmboy": "4.3.0"
+    "wasmboy": "https://registry.npmjs.org/wasmboy/-/wasmboy-4.3.0.tgz"
   },
   "devDependencies": {
     "vite": "5.4.0"
