@@ -9,13 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "idb": "^8.0.0",
-    "jsnes": "^0.8.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "wasmboy": "^4.4.0"
+    "idb": "8.0.0",
+    "jsnes": "0.7.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "wasmboy": "4.3.0"
   },
   "devDependencies": {
-    "vite": "^5.4.0"
-  }
+    "vite": "5.4.0"
+  },
+  "engines": { "node": ">=18 <21" }
 }
