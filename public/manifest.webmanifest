@@ -1,0 +1,9 @@
+{
+  "name": "Web Emulator Arcade \u2014 Ultimate",
+  "short_name": "Arcade",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": []
+}
